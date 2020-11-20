@@ -1,12 +1,12 @@
-<h1 align="center">Cypress: do zero ao reporte </h1>
+<h1 align="center">Cypress: automação básica </h1>
 ------------
 
 
 
 # Passo a passo para configurar o projeto
 
-#### Baixe o projeto no Github, de preferência na branch do Vídeo 1:
-- Branch do vídeo 1: ``
+#### Baixe o projeto no Github e extraia as pastas backend e frontend:
+- `https://github.com/joelantonio86/automatizando-com-cypress/archive/master.zip`
 
 #### Instale e suba nossa *cobaia* localmente
 1.Acessar o diretório backend, instalar as dependências e iniciar a api:
